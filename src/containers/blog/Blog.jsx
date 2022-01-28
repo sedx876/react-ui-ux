@@ -1,7 +1,7 @@
 import React from 'react'
-import './cta.css'
+import './blog.css'
 
-const CTA = () => {
+const Blog = () => {
   return (
     <div>
 
@@ -9,4 +9,4 @@ const CTA = () => {
   )
 };
 
-export default CTA
+export default Blog

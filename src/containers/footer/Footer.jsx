@@ -1,7 +1,7 @@
 import React from 'react'
-import './cta.css'
+import './footer.css'
 
-const CTA = () => {
+const Footer = () => {
   return (
     <div>
 
@@ -9,4 +9,4 @@ const CTA = () => {
   )
 };
 
-export default CTA
+export default Footer;

@@ -1,7 +1,7 @@
 import React from 'react'
-import './cta.css'
+import './header.css'
 
-const CTA = () => {
+const Header = () => {
   return (
     <div>
 
@@ -9,4 +9,4 @@ const CTA = () => {
   )
 };
 
-export default CTA
+export default Header;
